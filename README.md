@@ -2,4 +2,3 @@
 - 👀 I’m interested in C# and Unity
 - 🌱 I’m currently learning C# And Untity
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me.
