@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @senseiwhales
 - 👀 I’m interested in C# and Unity
 - 🌱 I’m currently learning C# And Untity
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on a project which has a cycle of deleting files and overwriting them with random characters multiple times so you cant get your files back (its for when you want to give away an old computer.)
