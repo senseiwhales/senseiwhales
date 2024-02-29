@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @senseiwhales
-- 👀 I’m interested in C#, Unity, Python and C
-- 🌱 I’m currently learning C
+- 👀 I’m interested in C++, Java and Python
+- 🌱 I’m currently learning Java
